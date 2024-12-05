@@ -1,8 +1,4 @@
-### GitHub Repository Name:
-
-`DSA-Forever-Daily-DSA-Challenges`
-
-### Description for GitHub:
+### Description of the Project:
 
 **DSA Forever** is a project designed to boost your Data Structures and Algorithms (DSA) skills. Every day, it automatically sends a DSA challenge along with useful tips and tricks to help you solve it. The system keeps track of your points and streaks to motivate you to practice every day. Get started and level up your DSA skills with daily emails!
 
@@ -52,7 +48,6 @@ The email you receive will contain the following:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/DSA-Forever-Daily-DSA-Challenges.git
-   cd DSA-Forever-Daily-DSA-Challenges
    ```
 ````
 
@@ -66,7 +61,7 @@ The email you receive will contain the following:
 
    - Create a `.env` file in the root directory and add your environment variables like `MONGO_URI`, `EMAIL_PASS`, `EMAIL_USER`.
 
-4. **Run the server:**
+4. **Run the Project:**
 
    ```bash
    npm run dev
