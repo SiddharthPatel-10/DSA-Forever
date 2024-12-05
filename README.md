@@ -107,11 +107,4 @@ This project is open-source and available under the MIT License. Feel free to fo
 
 ## 📨 Contact
 
-For any inquiries or suggestions, feel free to contact me at [connectwithsiddh@gmail.com].
-
-```
-
----
-
-This README covers the full details of your project, including how it works, setup instructions, and motivation behind building it. It provides all the information a user needs to understand the purpose and use of your "DSA Forever" system, while also giving them a clear guide on how to set it up and use it effectively.
-```
+For any inquiries or suggestions, feel free to contact me at connectwithsiddh@gmail.com
